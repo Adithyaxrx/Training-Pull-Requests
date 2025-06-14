@@ -16,8 +16,7 @@ public class Calculator {
 
         double result;
 
-        switch (operator) {
-            case '+':
+        switch (operator) {adsfasdfsfawerewsdvasdfr
                 result = num1 + num2;
                 break;
 
